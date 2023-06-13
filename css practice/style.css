@@ -1,0 +1,14 @@
+.my-text-style{
+    color:blue;
+    font-size: 30px;
+}
+
+#my-id{
+    color:red;
+    font-size: 30px;
+}
+
+h2,p{
+    color:green;
+    font-size: 30px;
+}
